@@ -15,9 +15,7 @@ public class CPU {
     public CPU(int vel, int mem){
         velocidad=vel;
         memoria=mem;
-    }
-    
-    
+    }    
     public int getVelocidad(){
         return velocidad;
     }

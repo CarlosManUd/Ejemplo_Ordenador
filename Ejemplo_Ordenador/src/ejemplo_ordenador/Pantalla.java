@@ -7,7 +7,6 @@ package ejemplo_ordenador;
 public class Pantalla {
     private String marca;
     private float pulgadas;
-    
     public Pantalla(){
         
     }
