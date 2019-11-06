@@ -17,6 +17,7 @@ public class CPU {
         memoria=mem;
     }
     
+    
     public int getVelocidad(){
         return velocidad;
     }

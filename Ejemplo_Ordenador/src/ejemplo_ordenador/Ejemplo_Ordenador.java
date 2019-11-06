@@ -17,5 +17,4 @@ public class Ejemplo_Ordenador {
         System.out.println("Marca: " + ord.getPantalla().getMarca());
         System.out.println("Pulgadas: " + ord.getPantalla().getPulgadas());
     }
-    
 }
